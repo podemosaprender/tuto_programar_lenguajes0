@@ -132,3 +132,10 @@ El tiempo que __invierten__ debería repartirse
    googleando yo puedo programar en TODOS, si programo en el mismo un mes seguido ya no googleo, y me ven hacerlo en el grupo y en los proyectos que les mencioné vengo haciendo hace 30 años ;)
 
 > Mauricio programa e javascript, porque con pocos conceptos puede crear muchas cosas distintas que sirven y funcionan. Se como Mauricio. 
+
+
+## Extra ...
+
+Por que los programas donde los cambios de estado están desparramados por el código __son un problema__ y programar con __funciones puras__ fáciles de entender porque sólamente dependen de sus parámetros está cada vez más de moda ...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d2NWPG2gB_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
