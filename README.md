@@ -9,11 +9,11 @@ Los _conceptos_ son un costo __grande__ porque los tengo que aprender y entender
 
 Las _palabras_ __también__ son un costo porque cuando quiero modificar o entender el código necesito mantener más cosas coordinadas en mi cabeza, peor si no las puedo escribir cerca en el archivo (ej. los imports lejos de donde uso la clase)
 
-* <leerYcontarPalabras.node.js> (9 palabras, 11 "conceptos")
+* <leerYcontarPalabras.node.js> (35 palabras, 11 "conceptos")
 
 Por las funciones que llame, la idea de importar un modulo, etc.
 
-* <LeerYContarPalabras.java> (23 palabras)
+* <LeerYContarPalabras.java> (64 palabras)
 
 Además de los de javascript
 1. Cada paquete y su jerarquia (necesite 4)
