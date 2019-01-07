@@ -1,4 +1,4 @@
-#Programar y lenguajes: microtutorial PODEROSO
+# Programar y lenguajes: microtutorial PODEROSO
 
 > Para que cualquier persona entienda como se elijen las herramientas y por qué
 
